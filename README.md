@@ -26,4 +26,3 @@ The MVP of DonateMe focuses on foundational features that establish a secure, us
 
 We are committed to delivering these key features efficiently to serve our community's needs, with further enhancements planned for future updates.
 
-
