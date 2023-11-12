@@ -84,4 +84,7 @@ def verify_user_phone(user_id, verification_code):
     else:
         print("User not found.")
     session.close()
+<<<<<<< HEAD
 
+=======
+>>>>>>> b3c05424b6cc264d7d52e080fa1ddd480c0552b8
