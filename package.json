@@ -1,0 +1,25 @@
+{
+  "name": "donateme",
+  "version": "1.0.0",
+  "description": "Ever felt your $10 holds more value in the right hands? Want to directly fund a neighbor's vivid dream? You're in the right place! DonateMe is where generosity meets community, connecting you with neighbors to make dreams happen!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yoohye",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "twilio": "^4.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yoohye/DonateMe"
+  }
+}
